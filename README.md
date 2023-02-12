@@ -18,10 +18,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">JavaScript - Components lib</h3>
+<h3 align="center">V - Components lib</h3>
 
   <p align="center">
-    The Lenra's components JavaScript lib.
+    The Lenra's components V lib.
     <br />
     <br />
     <a href="https://github.com/shiipou/lenra-components-lib-v/issues">Report Bug</a>
@@ -31,7 +31,7 @@
 </div>
 
 <div style="text-align: justify">
-The components lib let you build your Lenra apps UI easely.
+The components lib let you build your Lenra apps UI easely in [V](https://github.com/vlang/v).
 </div>
 
 <!-- GETTING STARTED -->
