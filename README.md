@@ -31,7 +31,7 @@
 </div>
 
 <div style="text-align: justify">
-The components lib let you build your Lenra apps UI easely in [V](https://github.com/vlang/v).
+The components lib let you build your Lenra apps UI easely in <a href="https://github.com/vlang/v">V</a>.
 </div>
 
 <!-- GETTING STARTED -->
